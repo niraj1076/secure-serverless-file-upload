@@ -91,18 +91,13 @@ secure-serverless-file-upload/
 
 ## 📌 Phase Status
 
-✅ **Phase 1 Completed**  
+✅ **Phase 1 Pending**  
 - Secure serverless upload  
 - Authentication  
 - Metadata logging  
 - Email notification  
 
-🚧 **Phase 2 (Next)**  
-- Infrastructure as Code using **Terraform**
-- Automated create & destroy
-- IAM permission management
 
----
 
 ## 👨‍💻 Author
 
