@@ -101,7 +101,7 @@ secure-serverless-file-upload/
 
 ## 👨‍💻 Author
 
-**Niraj Rajput**  
+**Niraj Shrivastav**  
 AWS | Cloud | DevOps Projects  
 
 ---
